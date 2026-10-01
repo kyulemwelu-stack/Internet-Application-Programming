@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<HTML Lang = "en">
+<HEAD>
+  <TITLE>Document/webpage title</TITLE>
+</HEAD>
+<BODY>
+  <H1>Heading one</H1>
+  <H2>Heading two</H2>
+  <P>This is <B>bold</B> text.</P>
+</BODY>
+</HTML>
